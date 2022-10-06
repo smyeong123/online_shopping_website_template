@@ -1,7 +1,7 @@
-# Processed_emotion_warehouse
+# Website template
 
 ## About
-Website displaying creative medicine
+
 
 ## Run
 To view website, clone the repository on your desired directory.
