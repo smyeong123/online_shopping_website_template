@@ -6,7 +6,7 @@
 ## Run
 To view website, clone the repository on your desired directory.
 ```bash
-git clone https://github.com/sloth8890/.git
+git clone https://github.com/sloth8890/Website-template.git
 cd Processed_emotion_warehouse
 open index.html
 ```
